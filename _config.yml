@@ -11,10 +11,10 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Kiran Davuluri"
 description              : &description "About Me"
-url                      : https://dark-14100.github.io/ #https://academicpages.github.io #https://kirand.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sharmahemant39.github.io/ #https://academicpages.github.io #https://kirand.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-#repository               : "https://kiran-collab/kiran-collab.github.io" #"kiran-collab.github.io/kirand.github.io"
-repository               : "dark-14100/dark-14100.github.io"
+#repository               : "https://sharmahemant39/sharmahemant39.github.io" #"kiran-collab.github.io/kirand.github.io"
+repository               : "sharmahemant39/sharmahemant39.github.io"
 teaser                   : "kiran_bio_pic_2.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aditya Seethamraju"
+  name             : "Hemant Sharma"
   avatar           : "kiran_bio_pic_2.jpg"
   bio              : "Student @ IIITK"
   #location         : "Location"

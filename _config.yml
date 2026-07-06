@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Kiran Davuluri"
+name                     : &name "Hemant Sharma"
 description              : &description "About Me"
 url                      : https://sharmahemant39.github.io/ #https://academicpages.github.io #https://kirand.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,12 +81,12 @@ analytics:
 author:
   name             : "Hemant Sharma"
   avatar           : "kiran_bio_pic_2.jpg"
-  bio              : "Student @ IIITK"
+  bio              : "Assistant Professor @ Tungad School of "
   #location         : "Location"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=zRhJxzoAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : kirandav AT umich dot edu
+  email            : sharmahemant39 AT gmail dot com
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   #uri              :
   #bitbucket        :

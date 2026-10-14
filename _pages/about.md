@@ -1,32 +1,90 @@
 ---
+layout: null
 permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
+title: "Hemant Sharma | Mathematics"
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
-
-About Me
-======
-
-I have earned my PhD from IIITDM Kancheepuram where I worked with [Dr. Nachiketa Mishra](https://mishranachiketa.wordpress.com)
-Web Links for work portfolio:
-
-[Resume]()
-
-[CV]()
-
-
-Research Interests
-=================
-
-My current research directions include Computer Vision with Distributive Computing, Video Analytics at the Edge, optimizing Visual Language Models.
-
-
-
-Contact 
-========
-
-Email: dkiran238 AT gmail dot com
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Hemant Sharma — mathematics researcher and educator. Tensor analysis, eigenvalue bounds and image processing. Publications, teaching and curriculum vitae.">
+<meta name="theme-color" content="#ffffff">
+<title>Hemant Sharma | Mathematics</title>
+<style>
+:root{color-scheme:light;--ink:#22272c;--muted:#66717b;--blue:#176aab;--line:#e6e9ec;--soft:#f4f7fa}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#fff;color:var(--ink);font:15px/1.65 Arial,Helvetica,sans-serif}a{color:var(--blue);text-decoration:none;text-underline-offset:3px}a:hover{text-decoration:underline}a:focus-visible,summary:focus-visible{outline:2px solid var(--blue);outline-offset:5px}main{max-width:870px;margin:auto;padding:38px 30px 24px}.skip{position:absolute;left:15px;top:-60px;background:#fff;padding:8px}.skip:focus{top:0}nav{display:flex;gap:24px;flex-wrap:wrap;font-size:13px;margin-bottom:45px}.intro{display:grid;grid-template-columns:minmax(0,1fr) 210px;gap:40px;align-items:center}h1{font-size:35px;font-weight:500;line-height:1.2;letter-spacing:-.7px;margin:0 0 13px}h2{font-size:23px;font-weight:500;line-height:1.3;letter-spacing:-.3px;margin:0 0 18px}h3{font-size:15px;margin:0 0 5px;font-weight:600;line-height:1.5}p{margin:0 0 14px}.role{font-size:14px;line-height:1.65;margin-bottom:19px}.role span{display:block;color:var(--muted)}.portrait{display:block;width:210px;height:260px;object-fit:cover;object-position:center 25%;border-radius:5px}.profile-links{display:flex;gap:8px 12px;flex-wrap:wrap;font-size:13px;margin-top:21px}.profile-links span{color:#a9b1b7}section{margin-top:44px;scroll-margin-top:25px}.news-list{list-style:none;padding:0;margin:0}.news-list li{display:grid;grid-template-columns:85px minmax(0,1fr);gap:13px;margin:10px 0;font-size:14px}.date{font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums;padding-top:2px}.research-intro{margin-bottom:26px}.paper{display:grid;grid-template-columns:92px minmax(0,1fr);gap:20px;padding:23px 0;border-top:1px solid var(--line)}.year{font-size:24px;line-height:1.2;letter-spacing:-.5px;color:#6c8497}.year small{display:block;font:10px/1.5 Arial,sans-serif;letter-spacing:1px;margin-top:7px;text-transform:uppercase}.paper p{font-size:14px;margin:4px 0}.authors strong{font-weight:600}.journal{font-style:italic}.paper .description{margin-top:9px;color:#5d6670}.paper-links{display:flex;gap:15px;flex-wrap:wrap;font-size:13px;margin-top:10px}.entry{display:grid;grid-template-columns:116px minmax(0,1fr);gap:17px;margin-bottom:21px}.entry p{margin:3px 0;font-size:14px}.muted{color:var(--muted)}.awards{padding-left:19px;font-size:14px}.awards li{padding-left:3px;margin:8px 0}.cv{border-top:1px solid var(--line);padding-top:25px}.cv-link{display:inline-block;border:1px solid #b9ccd9;border-radius:3px;padding:8px 15px;font-size:14px}.contact-grid{display:grid;grid-template-columns:1fr 1fr;gap:25px;font-size:14px}.contact-grid p{margin:3px 0}footer{display:flex;justify-content:space-between;gap:15px;flex-wrap:wrap;border-top:1px solid var(--line);margin-top:43px;padding-top:19px;color:var(--muted);font-size:11px}
+@media(max-width:600px){main{padding:24px 22px}nav{gap:13px 18px;margin-bottom:29px}.intro{grid-template-columns:1fr;gap:25px}.portrait{grid-row:1;width:152px;height:190px}h1{font-size:31px}.paper{grid-template-columns:50px minmax(0,1fr);gap:14px}.year{font-size:20px}.year small{font-size:8px;letter-spacing:0}.entry{grid-template-columns:1fr;gap:2px}.contact-grid{grid-template-columns:1fr;gap:18px}section{margin-top:35px}.profile-links{gap:8px 10px}.news-list li{grid-template-columns:69px minmax(0,1fr);gap:10px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+@media print{nav,.skip,.cv-link,footer a{display:none}main{max-width:none;padding:0}.intro{grid-template-columns:minmax(0,1fr) 150px}.portrait{width:150px;height:185px}a{color:inherit}section,.paper,.entry{break-inside:avoid}section{margin-top:25px}}
+</style>
+</head>
+<body>
+<a class="skip" href="#about">Skip to content</a>
+<main>
+<nav aria-label="Main navigation"><a href="#about">About</a><a href="#research">Research</a><a href="#teaching">Teaching</a><a href="#education">Education</a><a href="#cv">CV</a><a href="#contact">Contact</a></nav>
+<header class="intro" id="about">
+<div>
+<h1>Hemant Sharma</h1>
+<p class="role">Assistant Professor &amp; Head of Mathematics<span>Tungal School of Basic and Applied Sciences<br>Jamkhandi, Karnataka, India</span></p>
+<p>I work on tensors, eigenvalue bounds and image processing. My research explores the spectral properties of symmetric positive definite tensors and the mathematical tools used to understand them.</p>
+<p>I am pursuing a Ph.D. in Mathematics at IIITDM Kancheepuram, with my thesis in preparation. Previously, I completed an M.Sc. in Mathematics at VNIT Nagpur and a B.Sc. (Honours) in Mathematics at the University of Delhi.</p>
+<div class="profile-links" aria-label="Academic profile links"><a href="mailto:sharmahemant39@gmail.com">Email</a><span aria-hidden="true">/</span><a href="/Hemant-Sharma-CV.pdf">CV</a><span aria-hidden="true">/</span><a href="https://scholar.google.com/citations?user=M9pcSW8AAAAJ&amp;hl=en">Google Scholar</a><span aria-hidden="true">/</span><a href="https://www.researchgate.net/profile/Hemant-Sharma-80/research">ResearchGate</a><span aria-hidden="true">/</span><a href="https://github.com/sharmahemant39">GitHub</a></div>
+</div>
+<img class="portrait" src="/hemant-sharma.png" alt="Portrait of Hemant Sharma" width="210" height="260" fetchpriority="high">
+</header>
+<section id="news" aria-labelledby="news-heading">
+<h2 id="news-heading">News</h2>
+<ul class="news-list">
+<li><time class="date" datetime="2026-06">Jun 2026</time><span>Our paper on <a href="https://doi.org/10.1007/s42967-026-00589-4">eigenvalue bounds of symmetric positive definite tensors</a> is published in <em>Communications on Applied Mathematics and Computation</em>.</span></li>
+<li><time class="date" datetime="2025-09">Sep 2025</time><span>I joined Tungal School of Basic and Applied Sciences as Assistant Professor and Head of the Mathematics Department.</span></li>
+</ul>
+</section>
+<section id="research" aria-labelledby="research-heading">
+<h2 id="research-heading">Research &amp; Publications</h2>
+<p class="research-intro">My research interests include tensor analysis, bounds for tensor eigenvalues, and image processing. My published work examines how trace and determinant information can be used to estimate extreme eigenvalues.</p>
+<article class="paper">
+<div class="year">2026<small>Journal<br>article</small></div>
+<div><h3><a href="https://doi.org/10.1007/s42967-026-00589-4">Eigenvalue Bounds of Symmetric Positive Definite Tensors</a></h3>
+<p class="authors">Snigdhashree Nayak, <strong>Hemant Sharma</strong>, Nachiketa Mishra</p>
+<p class="journal">Communications on Applied Mathematics and Computation, 2026.</p>
+<p class="description">Trace- and determinant-based inequalities for bounding tensor eigenvalues, with an application to certifying positive definiteness in stability analysis.</p>
+<div class="paper-links"><a href="https://doi.org/10.1007/s42967-026-00589-4">Article / DOI</a><a href="https://arxiv.org/abs/2605.14768">Preprint</a><a href="/publications.bib" download>Download BibTeX</a></div></div>
+</article>
+<article class="paper">
+<div class="year">2025<small>Journal<br>article</small></div>
+<div><h3><a href="https://doi.org/10.1134/S1995080225600311">Bounding Eigenvalues of Symmetric Positive Definite Tensors: A Comparative Analysis of TDet and TDep Approaches</a></h3>
+<p class="authors"><strong>Hemant Sharma</strong>, Nachiketa Mishra</p>
+<p class="journal">Lobachevskii Journal of Mathematics, 46(5), 2443–2455, 2025.</p>
+<p class="description">A comparison of trace-determinant and trace-dependent bounds for the extreme eigenvalues of symmetric positive definite tensors.</p>
+<div class="paper-links"><a href="https://doi.org/10.1134/S1995080225600311">Article / DOI</a><a href="/publications.bib" download>Download BibTeX</a></div></div>
+</article>
+<p style="font-size:13px;margin-top:14px">Further research updates: <a href="https://scholar.google.com/citations?user=M9pcSW8AAAAJ&amp;hl=en">Google Scholar</a> · <a href="https://www.researchgate.net/profile/Hemant-Sharma-80/research">ResearchGate</a></p>
+</section>
+<section id="teaching" aria-labelledby="teaching-heading">
+<h2 id="teaching-heading">Teaching &amp; Experience</h2>
+<div class="entry"><div class="date">Sep 2025 – present</div><div><h3>Assistant Professor &amp; Head of Mathematics</h3><p>Tungal School of Basic and Applied Sciences, Jamkhandi, Karnataka</p></div></div>
+<div class="entry"><div class="date">Jan 2021 – May 2025</div><div><h3>Teaching Assistant · IIITDM Kancheepuram</h3><p>Linear Algebra and Numerical Methods for second-year B.Tech. students in Computer Science and Mechanical Engineering.</p></div></div>
+<div class="entry"><div class="date">Jan 2019 – Feb 2020</div><div><h3>Junior Research Fellow · UM-DAE CEBS</h3><p>Fellowship funded by the Department of Atomic Energy.</p></div></div>
+<div class="entry"><div class="date">Jul 2018 – Nov 2018</div><div><h3>Guest Faculty · PGDAV College, University of Delhi</h3><p>Teaching for second-year B.Sc. (Honours) Mathematics students.</p></div></div>
+</section>
+<section id="education" aria-labelledby="education-heading">
+<h2 id="education-heading">Education</h2>
+<div class="entry"><div class="date">2020 – present</div><div><h3>Ph.D. in Mathematics · IIITDM Kancheepuram</h3><p>Thesis in preparation; expected completion in 2026.</p><p class="muted">Research area: tensors and image processing · CGPA: 8.69/10</p></div></div>
+<div class="entry"><div class="date">2015 – 2017</div><div><h3>M.Sc. in Mathematics · VNIT Nagpur</h3><p class="muted">Research area: fixed point theory · CGPA: 6.6/10</p></div></div>
+<div class="entry"><div class="date">2012 – 2015</div><div><h3>B.Sc. (Honours) in Mathematics · University of Delhi</h3><p class="muted">PGDAV (Evening) College · 82.23%</p></div></div>
+</section>
+<section id="awards" aria-labelledby="awards-heading">
+<h2 id="awards-heading">Awards &amp; Academic Training</h2>
+<ul class="awards"><li><strong>NET JRF:</strong> All India Rank 32 (December 2017) and 112 (June 2018).</li><li><strong>DAE-NBHM MA/M.Sc. Scholarship:</strong> recipient, 2015.</li><li><strong>GATE:</strong> qualified in 2015 and 2018. <strong>JAM:</strong> qualified in 2015.</li><li><strong>Summer Program in Mathematics:</strong> Harish-Chandra Research Institute, Allahabad, June–July 2016.</li><li><strong>Mathematics Training and Talent Search:</strong> Level O at IIT Patna, June 2014; selected for Level 1.</li></ul>
+</section>
+<section class="cv" id="cv" aria-labelledby="cv-heading"><h2 id="cv-heading">Curriculum Vitae</h2><p>Education, academic appointments, publications, awards and activities.</p><a class="cv-link" href="/Hemant-Sharma-CV.pdf" download>Download CV (PDF) ↓</a></section>
+<section id="contact" aria-labelledby="contact-heading"><h2 id="contact-heading">Contact</h2><div class="contact-grid"><div><p><a href="mailto:sharmahemant39@gmail.com">sharmahemant39@gmail.com</a></p><p><a href="mailto:mat20d002@iiitdm.ac.in">mat20d002@iiitdm.ac.in</a></p></div><div><p>Department of Mathematics</p><p>Tungal School of Basic and Applied Sciences</p><p>Jamkhandi, Karnataka, India</p></div></div></section>
+<footer><span>© 2026 Hemant Sharma · Updated October 2026</span><a href="#about">Back to top ↑</a></footer>
+</main>
+</body>
+</html>
